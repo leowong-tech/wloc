@@ -175,7 +175,7 @@ https://raw.githubusercontent.com/leowong-tech/wloc/refs/heads/main/modules/wloc
 
 公共选点页面有请求上限，建议部署自己的实例：
 
-- **Workers**: `https://wloc-spoofer.folung025.workers.dev`
+- **Workers**: `https://wloc-spoofer.folung025.workers.dev/`
 
 **一键部署（Workers）：**
 
